@@ -10,7 +10,7 @@ Check the file constants.ts for different protocol parameters, including which m
 
 To mine using the C++ miner (which is much faster), do the following:
 1. Clone the repository and init the submodules:  
-`git clone --recurse-submodules https://github.com/ssrivatsan97/easycoin`  
+`git clone --recurse-submodules https://github.com/kkailiwang/queenking`  
 
 1. Install cmake to build, you will need a C++ compiler like gcc clang:  
 `brew install cmake`  
