@@ -25,7 +25,7 @@ export async function startMining() {
 		T: BLOCK_TARGET,
 		created: timeNow,
 		miner: config.minerName,
-		note: "lyronctk/kkwang22: based in arillaga dining",
+		note: "lyronctk/kkwang22/krgeorge/jguibas: based in arillaga dining",
 		previd: previd,
 		txids: txids,
 		nonce: "0000000000000000000000000000000000000000000000000000000000000000"

@@ -10,3 +10,4 @@ transactionDatabase/
 debug/*.txt
 debug/keysDatabase/
 .DS_Store
+database/

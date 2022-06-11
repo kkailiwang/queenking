@@ -1,7 +1,7 @@
 export const config = {
 	"port": 18018,
 	"serverTimeoutDuration": 300000,
-	"socketTimeoutDuration": 200000,
+	"socketTimeoutDuration": 500000,
 	"myName": "QUEENKING", // PLEASE CHANGE THIS
 	"bootstrapName": "Bootstrap",
 	"bootstrapAddress": "149.28.220.241",
@@ -13,7 +13,7 @@ export const config = {
 	"minerType": "cpp", // options : either "cpp" or "ts" (default is "ts")
 	"cppMinerPath": "./marabu_miner/build/MinerStandalone", // Path to C++ miner executable. Check if this path is correct after building C++ miner (see README)
 	"tsMinerPath": "./ts_miner_thread", // Path to Typescript miner code.
-	"pubkey": "c1fb038b07c7c90347951c352f63864cb2ef986766afba807e84856187563020"
+	"pubkey": "8dbcd2401c89c04d6e53c81c90aa0b551cc8fc47c0469217c8f5cfbae1e911f9"
 }
 
 export const INVALID_MSG_TIMEOUT = 1000 // How long to wait for receiving fragmented messages
