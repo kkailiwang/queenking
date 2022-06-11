@@ -1,0 +1,5 @@
+/Users/kailiwang/cs_projects/ee374/queenking/marabu_miner/build/CMakeFiles/Hashes.dir
+/Users/kailiwang/cs_projects/ee374/queenking/marabu_miner/build/CMakeFiles/HashRateThread.dir
+/Users/kailiwang/cs_projects/ee374/queenking/marabu_miner/build/CMakeFiles/MinerStandalone.dir
+/Users/kailiwang/cs_projects/ee374/queenking/marabu_miner/build/CMakeFiles/edit_cache.dir
+/Users/kailiwang/cs_projects/ee374/queenking/marabu_miner/build/CMakeFiles/rebuild_cache.dir

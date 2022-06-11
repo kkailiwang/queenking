@@ -1,7 +1,7 @@
 export const config = {
 	"port": 18018,
 	"serverTimeoutDuration": 300000,
-	"socketTimeoutDuration": 60000,
+	"socketTimeoutDuration": 200000,
 	"myName": "QUEENKING", // PLEASE CHANGE THIS
 	"bootstrapName": "Bootstrap",
 	"bootstrapAddress": "149.28.220.241",
